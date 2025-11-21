@@ -14,13 +14,15 @@ Ten projekt jest częścią kursu **Programowanie Obiektowe**. Celem jest zaproj
 
 ### Technologie
 
-- Język programowania: C++
-- Kompilator: G++ / Clang
-- IDE: Dowolne (Visual Studio, CLion, Code::Blocks)
+- Język programowania: C# (backend)
+- Kompilator:
+- IDE: Visual Studio
+
 
 - Język programowania: Java
 - Wersja JDK: 11 lub wyższa
-- IDE: Dowolne (IntelliJ IDEA, Eclipse, NetBeans)
+- Ogarniacz3000: Gradle
+- IDE: IntelliJ-IDEA
 
 ### Milestones
 
