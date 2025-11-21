@@ -13,6 +13,6 @@ The hyperlink above leads to the README.md created in the inital commit of this 
 including the requirements, workflow instructions and expected milestones.
 
 ## Authors (sigmas two):
-*Favkes* - [Frontend](frontend) (SimpleTUI / Minal)
+*Favkes* - [Frontend](frontend) ([SimpleTUI](https://github.com/Favkes/SimpleTUI) / Minal)
 
 *MG* - [Backend](backend) (Chatter)
