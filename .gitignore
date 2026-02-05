@@ -1,20 +1,5 @@
-# IntelliJ
-.idea/
-*.iml
-out/
+# Ignore Gradle project-specific cache directory
+frontend/.gradle
 
-# Node (if any frontend Node projects)
-node_modules/
-
-# Build outputs
-/build/
-*.class
-*.jar
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Mermaid-generated files if you want to ignore
-# (optional: if you want CI to always regenerate)
-*.svg
+# Ignore Gradle build output directory
+build
