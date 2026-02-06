@@ -4,7 +4,7 @@ REM Build & Run Chatter-Client
 REM ===========================
 
 echo Building project with Gradle...
-call .\gradlew.bat :frontend:installDist
+call cmd /c ".\gradlew.bat :frontend:installDist"
 
 IF %ERRORLEVEL% NEQ 0 (
     echo Gradle build failed. Exiting. Dumbass.
