@@ -5,7 +5,7 @@
 # ===================================
 
 echo Building project with Gradle...
-./gradlew installDist
+./gradlew :frontend:installDist
 
 if [ $? -ne 0 ]; then
   echo Gradle build failed. Exiting. Dumbass.
