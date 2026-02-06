@@ -1,7 +1,11 @@
+# Docs
+These are the official GitHub docs of the ChatterMinal project.
 
-## [Initial requirements & details](project-overview/INITIAL_DETAILS.md)
-The hyperlink above leads to the README.md created in the inital commit of this repo,
-including the requirements, workflow instructions and expected milestones.
+
+## Structure
+ChatterMinal is split up into two most distinct parts:
+ - Serverside (developed and maintainted by @mateusz-guzek)
+ - Clientside (developed and maintained by @Favkes)
 
 ## UML diagrams:
 ![Diagram 1](https://raw.githubusercontent.com/Favkes/SimpleTUI/docs-assets/docs/assets/diagrams/plan.svg)
